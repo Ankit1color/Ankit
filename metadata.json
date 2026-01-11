@@ -1,0 +1,7 @@
+{
+  "name": "Gadi Wala Aaya - Swachh Bharat Assistant",
+  "description": "An interactive waste management app inspired by Shyam Bairagi's iconic anthem. Features AI-powered waste classification, pickup schedules, and educational content to keep your city clean.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
